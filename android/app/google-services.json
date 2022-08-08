@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "780641775195",
+    "project_id": "livetcup-native",
+    "storage_bucket": "livetcup-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780641775195:android:98e1b70ae828265fb9997e",
+        "android_client_info": {
+          "package_name": "com.example.livet_cup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780641775195-igs86vlt9r5sh7udf94rnv1olb6qpej4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.livet_cup",
+            "certificate_hash": "fcc84ddfeb6b90bf7b4995b46d348bc248538bf1"
+          }
+        },
+        {
+          "client_id": "780641775195-r3qivn62mbqvstog7bja60uqjaq59nfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRTOX1bBWO9qCwrnT3wpGQmoQjsVrhwaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780641775195-r3qivn62mbqvstog7bja60uqjaq59nfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
